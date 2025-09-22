@@ -12,8 +12,10 @@ I enjoy learning new skills, building small projects, and improving my knowledge
 - **Other Skills:** Problem Solving  
 ---
 
-## 📌 Featured Projects
--  🚀 Soon I will add my projects here!
+## 📚 My Projects
+
+- [Library Management System](https://github.com/Mohammed-Mohsen2006/Library-Management-System)  
+  A simple C++ console-based library management system.
   
 ---
 
