@@ -15,7 +15,7 @@ I enjoy learning new skills, building small projects, and improving my knowledge
 ## 📚 My Projects
 
 - [Library Management System](https://github.com/Mohammed-Mohsen2006/Library-Management-System)  
-  A simple C++ console-based library management system.
+  A simple project C++ library management system.
   
 ---
 
